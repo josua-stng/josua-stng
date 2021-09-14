@@ -8,9 +8,9 @@
 
 -----
 
-<a href="https://github.com/josua-stng">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josua-stng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josua-stng&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/edwintantawi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edwintantawi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edwintantawi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 -----
