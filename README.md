@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### My name is Josua Sitanggang, I m a student from Indonesia and I m a Junior frontend web developer
+### My name is Josua Sitanggang, I am a student from Indonesia and I am Junior  frontend web developer
 
-- 🔭 I’m currently working on my Personal Projects and i m a student
+- 🔭 I’m currently working on my Personal Projects
 - 🌱 I’m currently learning Frontend web development
-- You can see me in  [Instagram](https://www.instagram.com/josuastng/),[Facebook](https://www.facebook.com/profile.php?id=100009735270078),[Linkedln](https://www.linkedin.com/in/josua-sitanggang-25898b214/)
+- 📫 You can see me in <a href="https://www.instagram.com/josuastng/">Instagram</a>| <a href="https://www.linkedin.com/in/josua-sitanggang-25898b214/">Linkedin</a> | <a href="https://www.facebook.com/profile.php?id=100009735270078">Facebook</a> 
 
 -----
 
@@ -14,3 +14,5 @@
 </a>
 
 -----
+
+
