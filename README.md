@@ -1,4 +1,8 @@
 ### Hi there 👋
+## My name is Josua, i m from Indonesia and i m junior front end developer
+- 🌱 I’m currently learning HTML,CSS,Javascript,Tailwind and React
+- I m a student 
+- You can see me in  [Instagram](https://www.instagram.com/josuastng/),[Facebook](https://www.facebook.com/profile.php?id=100009735270078),[Linkedln](https://www.linkedin.com/in/josua-sitanggang-25898b214/)
 
 <!--
 **josua-stng/josua-stng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
