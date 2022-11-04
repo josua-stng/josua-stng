@@ -1,10 +1,24 @@
 ### Hi there 👋
+<h1 align="center">Josua Sitanggang</h1>
+<p align="center"><strong>" informatics engineering student "</strong></p>
 
 ### My name is Josua Sitanggang, I'm a student from Indonesia and I'm a Junior  Front End Web Developer.
-- 🔭 I’m currently working on My Personal Projects and i m a student
-- 🌱 I’m currently learning Front End Web Development
+- 🔭 I’m currently working on my personal projects and i m a student
+- 🌱 I’m currently learning software engineering
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josua-sitanggang-25898b214/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/josuastng/">Instagram</a>
 | <a href="https://www.facebook.com/profile.php?id=100009735270078">Facebook</a>
+
+<h2 align="center">Skills and Technology</h2>
+<div align="center">
+ 
+  <img alt="Visual studio Code" src="https://img.shields.io/badge/-VS%20Code-0066b8?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f2db1d?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=black"/>
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-0ea5e9?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
+  <img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-026e00?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josua-stng&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josua-stng&theme=algolia&show_icons=true&layout=compact)](https://github.com/josua-stng) -->
