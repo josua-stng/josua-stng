@@ -18,7 +18,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=black"/>
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-0ea5e9?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
   <img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-026e00?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  
+ <img  alt"Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+   
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josua-stng&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josua-stng&theme=algolia&show_icons=true&layout=compact)](https://github.com/josua-stng) -->
