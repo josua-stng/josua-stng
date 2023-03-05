@@ -2,7 +2,7 @@
 <h1 align="center">Josua Sitanggang</h1>
 <p align="center"><strong>" informatics engineering student "</strong></p>
 
-### My name is Josua Sitanggang, I'm a student from Indonesia and I'm a Junior  Front End Web Developer.
+### My name is Josua Sitanggang, I'm a student from Indonesia and I'm a Front End Web Developer.
 - 🔭 I’m currently working on Frontend with Javascript,Typescript,React and some styling like TailwindCSS
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josua-sitanggang-25898b214/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/josuastng/">Instagram</a>
