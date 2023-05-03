@@ -20,20 +20,9 @@
   <img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-026e00?style=for-the-badge&logo=Node.js&logoColor=white"/>
  <img  alt"Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
    
----
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josua-stng&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josua-stng&theme=algolia&show_icons=true&layout=compact)](https://github.com/josua-stng) -->
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josua-stng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josua-stng&layout=compact&langs_count=8&theme=algolia"/>
- <img style="height: 165px;" alt="Josua Sitanggang wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=josuastng&theme=algolia&langs_count=4"/> 
 
 
----
-<!--
+![Total time coded since Aug 9 2021](https://wakatime.com/badge/user/52e5b0fe-ada5-4d13-81c8-8f981ccee9cf.svg)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
