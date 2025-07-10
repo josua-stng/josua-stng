@@ -1,13 +1,10 @@
 ### Hi there 👋
-<h1 align="center">Josua Sitanggang</h1>
-<p align="center"><strong>" informatics engineering student "</strong></p>
 
-### My name is Josua Sitanggang, I'm a student from Indonesia and I'm a Front End Web Developer.
-- 🌱 I’m currently learning software engineering
+### I m Josua and now focus in software engineering especially in frontend developer
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josua-sitanggang-25898b214/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/josuastng/">Instagram</a>
 | <a href="https://www.facebook.com/profile.php?id=100009735270078">Facebook</a>
 
-<h2 align="center">Skills and Technology</h2>
+<h2 align="center">Technology</h2>
 <div align="center">
  
   <img alt="Visual studio Code" src="https://img.shields.io/badge/-VS%20Code-0066b8?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
