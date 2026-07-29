@@ -1,8 +1,8 @@
 ### Yoooo 👋
 
-### I m Josua, focus in software engineering especially in frontend developer
+### Just a random guy who loves the world of software engineering.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/josua-sitanggang-25898b214/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/josuastng/">Instagram</a>
-| <a href="https://www.facebook.com/profile.php?id=100009735270078">Facebook</a>
+
 
    
 
